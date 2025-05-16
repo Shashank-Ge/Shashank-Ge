@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year undergraduate student and a passionate developer who loves crafting interactive web applications using **React**, **Vue.js**, and **Node.js**. I have a keen interest in **machine learning** and enjoy solving challenging problems. Currently, I'm focused on building projects that blend creativity with functionality.
+I'm an undergraduate student and a passionate developer who loves crafting interactive web applications using **React**, **Vue.js**, and **Node.js**. I have a keen interest in **machine learning** and enjoy solving challenging problems. Currently, I'm focused on building projects that blend creativity with functionality.
 
 ---
 
