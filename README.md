@@ -36,10 +36,9 @@ Here are some of my highlighted projects:
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Ge&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats-ten-kappa-77.vercel.app/api?username=Shashank-Ge&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Ge&theme=radical" height="180em" />
 </div>
-
 ---
 
 ## 🏆 **GitHub Trophies**
